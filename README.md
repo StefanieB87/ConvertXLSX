@@ -1,4 +1,11 @@
 # ConvertXLSX
-Simple Python Script to Convert XLSX into Wikitext tables
+Simple Python Script to Convert XLSX into Wikitext tables. 
+The Script might get an update later to add some functionality.
 
-This handy little script just helps with converting XLSX files into Wikitext tables for easy formatting of bigger tables. Nothing fancy. 
+## Dependencies:
+tkinter
+openpyxl
+pandas
+```shell
+pip install tkinter pandas openpyxl
+```
